@@ -1,0 +1,9 @@
+C:\Project\CrudBlazor\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.deps.json
+C:\Project\CrudBlazor\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.dll
+C:\Project\CrudBlazor\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.pdb
+C:\Project\CrudBlazor\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csprojAssemblyReference.cache
+C:\Project\CrudBlazor\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Project\CrudBlazor\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfo.cs
+C:\Project\CrudBlazor\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Project\CrudBlazor\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.dll
+C:\Project\CrudBlazor\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.pdb
